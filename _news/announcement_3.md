@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: Summer, 2022
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Serve as a TA for [Directed Research in AI System](https://yzhu.io/courses/summer/) at PKU.
