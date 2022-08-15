@@ -8,15 +8,15 @@ middle_name:
 last_name: Huang
 email: huangjiangyong@pku.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A concise personal homepage.
+  A concise personal homepage of Jiangyong Huang.
 footer_text: # >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: CV, AI, PKU, BIGAI   # add your own keywords or leave empty
 
 lang: en   # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧑🏻‍💻   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: site_icon.jpg   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://huangjy-pku.github.io   # the base hostname & protocol for your site
 baseurl: /   # the subpath of your site, e.g. /blog/
@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1200px
 
 # TODO: add layout settings (single page vs. multi-page)
 
