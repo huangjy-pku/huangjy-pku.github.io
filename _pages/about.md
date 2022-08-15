@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Beijing, China
+subtitle: PKU & BIGAI, Beijing, China
 
 profile:
   align: right
@@ -18,9 +18,9 @@ selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: true   # includes social icons at the bottom of the page
 ---
 
-- I am currently a Ph.D. student at [Peking University (PKU)](https://www.pku.edu.cn/) advised by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/), mainly focusing on computer vision (CV) and artificial intelligence (AI). Before that, I received my B.E. degree at [Peking University (PKU)](https://www.pku.edu.cn/) in June, 2022. I am also taking a long-term research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), where I am affiliated with General Vision Lab and instructed by [Siyuan Huang](https://siyuanhuang.com/), working on lots of interesting and significant topics and projects with a group of nice friends.
-- My research interests lie in general-purpose vision, multi-modal learning, statistical models, representation learning, neural-symbolic system etc., which can be summarized as to pursue an appropriate and elegant way to interpret the world that will facilitate the learning and development of general intelligence.
+- Currently I am a Ph.D. student at [Peking University (PKU)](https://www.pku.edu.cn/), majoring in artificial intelligence (AI) advised by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/), mainly focusing on computer vision (CV). Before that, I graduated and received my B.E. degree at PKU too. I am also taking a long-term research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), where I am affiliated with General Vision Lab and instructed by [Siyuan Huang](https://siyuanhuang.com/). There I am working on lots of interesting and significant topics with our team, and dedicated to achieve more unified and general intelligence.
+- My research interests lie in general-purpose vision, multi-modal learning, statistical models, representation learning, neural-symbolic reasoning etc., which can be summarized as to pursue an appropriate, rigorous and elegant way to understand the world and facilitate the learning and development of general intelligence.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
