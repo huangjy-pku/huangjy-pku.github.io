@@ -3,7 +3,7 @@ layout: page
 title: ViTo
 description: Vision as Tokens.
 img: assets/img/12.jpg
-importance: 1
+order: 1
 category: work
 ---
 

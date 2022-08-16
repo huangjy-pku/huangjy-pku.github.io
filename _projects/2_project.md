@@ -3,7 +3,7 @@ layout: page
 title: G-VUE
 description: A comprehensive benchmark for General-purpose Visual Understanding Evaluation.
 img: assets/img/3.jpg
-importance: 2
+order: 2
 category: work
 ---
 
