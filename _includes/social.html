@@ -1,5 +1,5 @@
             {%- if site.email -%}
-            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+            <a href="mailto:{{ site.email | encode_email }}" title="Email"><i class="fas fa-envelope"></i></a>
             {% endif %}
             <!-- hide orcid
             {%- if site.orcid_id -%}
@@ -56,7 +56,7 @@
             {%- if site.rss_icon -%}
             <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
             {% endif %}
-            
+
             {%- if site.wechat_id -%}
-            <a href="{{ site.url }}/assets/img/wechat_code.jpg" title="WeChat"><i class="fa-brands fa-weixin" aria-hidden="true"></i></a>
+            <a href="{{ site.url }}/assets/img/wechat_code.jpg" title="WeChat" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-weixin" aria-hidden="true"></i></a>
             {% endif %}
