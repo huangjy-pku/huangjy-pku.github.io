@@ -3,22 +3,22 @@ layout: page
 title: Projects
 permalink: /projects/
 description: in reversed chronological order
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: true
 ---
-Comming up soon.
+
 <!-- pages/projects.md -->
-<!-- <div class="projects">
-{%- if site.enable_project_categories and page.display_categories %} -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  <!-- {%- for category in page.display_categories %}
+  {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "order" %} -->
+  {%- assign sorted_projects = categorized_projects | sort: "order" %}
   <!-- Generate cards for each project -->
-  <!-- {% if page.horizontal -%}
+  {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects reversed -%}
@@ -35,11 +35,11 @@ Comming up soon.
   {%- endif -%}
   {% endfor %}
 
-{%- else -%} -->
+{%- else -%}
 <!-- Display projects without categories -->
-  <!-- {%- assign sorted_projects = site.projects | sort: "order" -%} -->
+  {%- assign sorted_projects = site.projects | sort: "order" -%}
   <!-- Generate cards for each project -->
-  <!-- {% if page.horizontal -%}
+  {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects reversed -%}
@@ -55,4 +55,4 @@ Comming up soon.
   </div>
   {%- endif -%}
 {%- endif -%}
-</div> -->
+</div>
