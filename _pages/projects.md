@@ -8,11 +8,10 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: true
 ---
-
+Comming up soon.
 <!-- pages/projects.md -->
-<div class="projects">
-  Comming up soon.
-<!-- {%- if site.enable_project_categories and page.display_categories %} -->
+<!-- <div class="projects">
+{%- if site.enable_project_categories and page.display_categories %} -->
   <!-- Display categorized projects -->
   <!-- {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
@@ -55,5 +54,5 @@ horizontal: true
     {%- endfor %}
   </div>
   {%- endif -%}
-{%- endif -%} -->
-</div>
+{%- endif -%}
+</div> -->
