@@ -16,7 +16,8 @@
     <!-- Fallback to the original file -->
     <img 
       src="{{ include.path | relative_url }}"
-      {% if include.class %}class="{{ include.class }}"{% endif %}  
+      {% if include.class %}class="{{ include.class }}"{% endif %}
+      vspace="5"
       width="83%"
       height="auto"
       {% if include.alt %}alt="{{ include.alt }}"{% endif %} 
