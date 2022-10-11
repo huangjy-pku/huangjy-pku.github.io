@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Summer, 2022
+time: Jul, 2022
 inline: true
 ---
 
-Serve as a TA for [Directed Research in AI System](https://yzhu.io/courses/summer/) at PKU.
+Serve as reviewer for NeurIPS 2022 Track Datasets and Benchmarks.
