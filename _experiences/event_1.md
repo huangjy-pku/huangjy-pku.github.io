@@ -1,6 +1,6 @@
 ---
 layout: post
-time: 2018-2019
+time: 2018 - 2019
 inline: true
 ---
 
