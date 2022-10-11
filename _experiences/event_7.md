@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Fall, 2022
+time: Summer, 2022
 inline: true
 ---
 
-TA for [Statistical Vision](http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_232A/Stat_232A.html) at PKU
+TA for [Directed Research in AI System](https://yzhu.io/courses/summer/) at PKU
