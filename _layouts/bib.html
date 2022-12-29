@@ -1,8 +1,8 @@
 ---
 ---
 <!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+      <div class="row" display="flex" align-items="center" margin-right="-50px">
+        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}" padding-right="0">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
