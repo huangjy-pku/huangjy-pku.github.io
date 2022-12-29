@@ -487,6 +487,14 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      .row {
+        display: flex;
+        align-items: center;
+        margin-right: -50px;
+      }
+      .col-sm-2 {
+        padding-right: 0;
+      }
       .preview {
         width: 100%;
         min-width: 80px;
