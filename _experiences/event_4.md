@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Dec, 2019
+time: Fall, 2022
 inline: true
 ---
 
-Third Prize in the China Undergraduate Physics Tournament
+TA for [Statistical Vision](http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_232A/Stat_232A.html) at PKU

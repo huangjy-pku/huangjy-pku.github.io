@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Oct, 2019
+time: Summer, 2022
 inline: true
 ---
 
-Second Prize in the Chinese Mathematics Competition
+TA for [Directed Research in AI System](https://yzhu.io/courses/summer/) at PKU

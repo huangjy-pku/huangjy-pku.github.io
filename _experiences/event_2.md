@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Aug, 2019
+time: Spring, 2021
 inline: true
 ---
 
-AIESEC International Volunteer
+Intern at AI Innovation Center, PKU

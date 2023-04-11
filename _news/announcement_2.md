@@ -4,4 +4,4 @@ time: Jun, 2022
 inline: true
 ---
 
-Graduate and receive my B.E. from PKU.
+Graduate and obtain my Bachelor's degree from PKU

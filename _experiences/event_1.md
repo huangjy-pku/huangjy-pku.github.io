@@ -1,7 +1,7 @@
 ---
 layout: post
-time: 2018 - 2019
+time: 2018 - 2020
 inline: true
 ---
 
-Third Prize of Peking University Scholarship
+Receive PKU annual scholarship and award twice
