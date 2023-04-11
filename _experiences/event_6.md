@@ -1,6 +1,6 @@
 ---
 layout: post
-time: 2021 - 
+time: 2021 - Now
 inline: true
 ---
 
