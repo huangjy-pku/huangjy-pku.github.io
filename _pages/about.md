@@ -22,7 +22,7 @@ social: true   # includes social icons
 
 - Meanwhile, I am also a long-term research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), where I am affiliated with General Vision Lab and instructed by [Siyuan Huang](https://siyuanhuang.com/). There I conduct research on vision-based topics covering various domains, *e.g.*, language, reasoning, robotics.
 
-- My research interests include general-purpose vision, multi-modal learning, representation learning, statistical models, world models, *etc*. My recent focus is on endowing embodied agents with the capabilities of grounding and following human instructions.
+- My research interests include general-purpose vision, multi-modal learning, embodied intelligence, representation learning, statistical models, *etc*. My recent focus is on endowing embodied agents with the capabilities of grounding and following human instructions.
 
 <!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

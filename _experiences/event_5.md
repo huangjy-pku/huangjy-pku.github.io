@@ -1,7 +1,7 @@
 ---
 layout: post
-time: 2022 - Now
+time: 2021 - Now
 inline: true
 ---
 
-Reviewer for NeurIPS, CVPR
+Research intern at BIGAI
