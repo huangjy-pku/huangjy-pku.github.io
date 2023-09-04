@@ -20,7 +20,7 @@ social: true   # includes social icons
 
 - Currently, I am a Ph.D. student at [Peking University (PKU)](https://www.pku.edu.cn/), majoring in artificial intelligence (AI) and focusing on computer vision (CV), advised by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). Previously, I graduated and obtained my Bachelor's degree from PKU in 2022.
 
-- Meanwhile, I am also a long-term research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), where I am affiliated with General Vision Lab and instructed by [Siyuan Huang](https://siyuanhuang.com/). There I conduct research on vision-based topics covering various domains, *e.g.*, language, reasoning, robotics.
+- Meanwhile, I am also a long-term research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), where I am affiliated with General Vision Lab and instructed by [Siyuan Huang](https://siyuanhuang.com/). There I conduct my research on vision-based topics covering various domains, *e.g.*, language, reasoning, robotics.
 
 - My research interests include general-purpose vision, multi-modal learning, embodied intelligence, representation learning, statistical models, *etc*. My recent focus is on endowing embodied agents with the capabilities of grounding and following human instructions.
 
