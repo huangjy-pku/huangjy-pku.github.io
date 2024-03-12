@@ -1,7 +1,7 @@
 ---
 layout: post
-time: 2018 - 2020
+time: 2018 - 2019
 inline: true
 ---
 
-Received the PKU annual scholarship and award twice
+Received PKU annual scholarship and award

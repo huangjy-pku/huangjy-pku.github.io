@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Summer, 2022
+time: Spring, 2021
 inline: true
 ---
 
-TA for [Directed Research in AI System](https://yzhu.io/courses/summer/) at PKU
+Intern at AI Innovation Center, PKU

@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Spring, 2021
+time: 2019 - 2020
 inline: true
 ---
 
-Intern at AI Innovation Center, PKU
+Received PKU annual scholarship and award
