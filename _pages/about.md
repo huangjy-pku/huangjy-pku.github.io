@@ -22,7 +22,7 @@ social: true   # includes social icons
 
 - I am also a long-term research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), affiliated with General Vision Lab and mentored by [Dr. Siyuan Huang](https://siyuanhuang.com/).
 
-- My research interests include general-purpose vision, multi-modal learning, embodied AI, vision-language-robotics, statistical models, *etc*. My recent work encompasses developing embodied generalist agents capable of grounding and following human instructions.
+- My research interests include general-purpose vision, multi-modal learning, scene understanding, embodied AI, *etc*. Currently I am working on embodied generalist agents that can understand 3D scenes and human instructions, and follow instructions to interact with the 3D world.
 
 <!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
