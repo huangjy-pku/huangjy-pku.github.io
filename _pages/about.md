@@ -20,9 +20,9 @@ social: true   # includes social icons
 
 - I am a Ph.D. student at [Peking University (PKU)](https://www.pku.edu.cn/), advised by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). I major in artificial intelligence (AI) with a primary focus on computer vision (CV). Previously, I graduated and obtained my Bachelor's degree from PKU in 2022.
 
-- I am also a long-term research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), affiliated with General Vision Lab and mentored by [Dr. Siyuan Huang](https://siyuanhuang.com/).
+- I am also a research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/), where I am affiliated with General Vision Lab and mentored by [Dr. Siyuan Huang](https://siyuanhuang.com/).
 
-- My research interests include general-purpose vision, multi-modal learning, scene understanding, embodied AI, *etc*. Currently I am working on embodied generalist agents that can understand 3D scenes and human instructions, and follow instructions to interact with the 3D world.
+- My research interests include multi-modal learning, 3D scene understanding, and embodied AI. My research goal is to develop embodied generalist agents capable of understanding the 3D world and following human instructions to interact with the 3D world.
 
 <!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
