@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Jun, 2022
+time: Sep, 2022
 inline: true
 ---
 
-Graduate and obtain my Bachelor's degree from PKU
+Start my Ph.D. at PKU

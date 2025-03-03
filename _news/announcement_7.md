@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Sep, 2024
+time: Feb, 2025
 inline: true
 ---
 
-`MSR3D` accepted by NeurIPS 2024
+`Beacon3D` is accepted by CVPR 2025

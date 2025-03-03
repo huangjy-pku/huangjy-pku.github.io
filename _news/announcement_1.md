@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Aug, 2021
+time: Jun, 2022
 inline: true
 ---
 
-Start my research internship at BIGAI
+Graduate and obtain Bachelor's degree from PKU

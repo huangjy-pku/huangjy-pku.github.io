@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Mar, 2024
+time: May, 2024
 inline: true
 ---
 
-Host [`ARNOLD` Challenge](https://sites.google.com/view/arnoldchallenge/) on [CVPR 2024 Embodied AI Workshop](https://embodied-ai.org/)
+[`LEO`](https://embodied-generalist.github.io/) is accepted by ICML 2024

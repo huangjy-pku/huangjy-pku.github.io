@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Sep, 2022
+time: Jul, 2023
 inline: true
 ---
 
-Start my Ph.D. at PKU
+[`ARNOLD`](https://arnold-benchmark.github.io/) is accepted by ICCV 2023

@@ -1,7 +1,7 @@
 ---
 layout: post
-time: May, 2024
+time: Sep, 2024
 inline: true
 ---
 
-`LEO` accepted by ICML 2024
+[`MSR3D`](https://msr3d.github.io/) is accepted by NeurIPS 2024

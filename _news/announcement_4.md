@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Jul, 2023
+time: Mar, 2024
 inline: true
 ---
 
-`ARNOLD` accepted by ICCV 2023
+Host [`ARNOLD` Challenge](https://sites.google.com/view/arnoldchallenge/) on [CVPR 2024 Embodied AI Workshop](https://embodied-ai.org/)
