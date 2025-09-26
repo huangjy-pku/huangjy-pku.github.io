@@ -18,9 +18,9 @@ selected_papers: true   # includes a list of papers marked as "selected={true}"
 social: true   # includes social icons
 ---
 
-- I am a Ph.D. student at [Peking University (PKU)](https://www.pku.edu.cn/), advised by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). I major in artificial intelligence (AI) with a primary focus on computer vision (CV). Previously, I graduated and obtained my Bachelor's degree from PKU in 2022.
+- I am currently a Ph.D. student at [Peking University (PKU)](https://www.pku.edu.cn/), advised by [Prof. Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/). I major in artificial intelligence (AI) with a primary focus on computer vision (CV). Before Ph.D., I graduated from PKU and obtained my Bachelor's degree in 2022.
 
-- My research interests include multi-modal learning, 3D scene understanding, and embodied AI. My research goal is to develop embodied generalist agents capable of understanding the 3D world and following human instructions to interact with the 3D world.
+- My research interests include multi-modal model, 3D scene understanding, and embodied AI. My research goal is to develop embodied generalist agents capable of (1) understanding the 3D world, and (2) following human instructions to interact with the 3D world.
 
 <!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
