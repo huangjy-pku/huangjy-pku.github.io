@@ -4,4 +4,4 @@ time: Mar, 2024
 inline: true
 ---
 
-Host [ARNOLD Challenge](https://sites.google.com/view/arnoldchallenge/) on [CVPR 2024 Embodied AI Workshop](https://embodied-ai.org/)
+Check out CVPR 2024 Challenge: [ARNOLD](https://sites.google.com/view/arnoldchallenge) [(Embodied AI)](https://embodied-ai.org)
