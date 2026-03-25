@@ -1,6 +1,6 @@
 ---
 layout: post
-time: May, 2024
+time: 2024-05
 inline: true
 ---
 

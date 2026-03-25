@@ -1,6 +1,6 @@
 ---
 layout: post
-time: Feb, 2025
+time: 2025-02
 inline: true
 ---
 

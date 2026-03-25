@@ -1,7 +1,7 @@
 ---
 layout: post
-time: Jan, 2026
+time: 2025-04
 inline: true
 ---
 
-[`SceneCOT`](https://scenecot.github.io/) is accepted by ICLR 2026
+Check out CVPR 2025 workshop challenge: [MSQA](https://scene-understanding.com/challenge.html) @ [3D Scene Understanding](https://scene-understanding.com)

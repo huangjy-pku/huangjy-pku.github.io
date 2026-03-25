@@ -1,6 +1,6 @@
 ---
 layout: post
-time: Jul, 2023
+time: 2023-07
 inline: true
 ---
 
