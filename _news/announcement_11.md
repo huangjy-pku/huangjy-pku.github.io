@@ -1,7 +1,7 @@
 ---
 layout: post
-time: 2026-03
+time: 2026-02
 inline: true
 ---
 
-Check out CVPR 2026 workshop challenge: [ARNOLD](https://sites.google.com/view/arnoldchallenge) @ [Embodied AI](https://embodied-ai.org)
+[`SceneVerse++`](https://sv-pp.github.io/) is accepted by CVPR 2026
