@@ -1,7 +1,7 @@
 ---
 layout: post
-time: 2022 - Now
+time: 2026
 inline: true
 ---
 
-Reviewer for NeurIPS, CVPR, ICLR, ECCV, ICML, AAAI, RA-L
+Research intern at Robbyant
